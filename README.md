@@ -1,4 +1,4 @@
-# Filosofia Bastter.com — Miniguia de Estudo
+# Filosofia Bastter.com
 
 Este repositório reúne um material estruturado de estudo sobre a filosofia da Bastter.com, com foco em construção de patrimônio, saúde física e equilíbrio emocional.
 
